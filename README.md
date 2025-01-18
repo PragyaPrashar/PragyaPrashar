@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I am Pragya Prashar </h1>
-<h3 align="center"> Software Engineer | Graduated with Masters of Science in Computer Science from Northeastern University | Passionate about coding </h3>
+<h4 align="center"> Software Engineer | Graduated with Masters of Science in Computer Science from Northeastern University | Passionate about coding </h3>
 
 <div align="center">
   
