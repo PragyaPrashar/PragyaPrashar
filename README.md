@@ -18,7 +18,7 @@
 
 - 💼 With **3+ years of experience**, I’ve designed and built scalable distributed systems, crafted seamless frontends, and engineered robust backends. I’m now seeking new opportunities as a software engineer to create impactful solutions.
 
-- ⚡ **Outside of code**, I’m either doodling, binge-watching Netflix, or diving into a captivating book—my latest obsession was *Eleanor Oliphant is Completely Fine*!
+- ⚡ **Outside of code**, I’m doodling or binge-watching Netflix!
 
 ---
 
